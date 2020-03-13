@@ -1,24 +1,9 @@
-# README
+NOMSTER
+Nomster - Is Ruby on Rails app which enables business owners Advertise by creating Venue, Address and give a brief Description about their business. It also allows users commemtand give a rating 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+VIEWS
+Nomster app has homepage (the root of the application). The user will see this page first and it will show all the places on the page. The homepage also will show the last comment for this place. If you click any place it will show a map, photo and descri[tion about the place.
 
-Things you may want to cover:
+TOOLS USED: Ruby on Rails, Postgresql, HTML5, CSS3, Bootstrap, Geocoder, Carrierwave, ActionMailer, SendGrind, jQuery, Devise. 
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
